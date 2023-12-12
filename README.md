@@ -1,5 +1,7 @@
 # supply-info-api
 
+Forked From the Juno Team: https://github.com/CosmosContracts/supply-info-api
+
 An API for basic info about the Source token supply.
 
 The base route `/` returns all info in JSON:
