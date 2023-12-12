@@ -1,6 +1,6 @@
 # supply-info-api
 
-An API for basic info about the Juno token supply.
+An API for basic info about the Source token supply.
 
 The base route `/` returns all info in JSON:
 
@@ -8,7 +8,7 @@ The base route `/` returns all info in JSON:
 {
   "circulatingSupply": "31511686.018182",
   "communityPool": "20008679.404121",
-  "denom": "JUNO",
+  "denom": "SOURCE",
   "totalSupply": "65336746.085331"
 }
 ```

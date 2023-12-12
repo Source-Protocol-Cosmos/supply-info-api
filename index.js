@@ -11,7 +11,7 @@ const {
 
 require("dotenv").config();
 
-const denom = process.env.DENOM || "ujuno";
+const denom = process.env.DENOM || "usource";
 const interval = process.env.INTERVAL || 7200000;
 
 const vestingAccounts = process.env.VESTING_ACCOUNTS
